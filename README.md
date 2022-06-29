@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Get Set Radio](https://github.com/CydVilla/Naganuma)
 
-- 🌱 I’m currently learning **AWS, cloud concepts and fundamentals**
+- 🌱 I’m currently learning **AWS and fundamental cloud concepts **
 
 - 👨‍💻 All of my projects are available at [https://cydvilla.netlify.app/](https://cydvilla.netlify.app/)
 
