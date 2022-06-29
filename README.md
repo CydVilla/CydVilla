@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [tbd](tbd)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **villacv@gmail.com**
 
