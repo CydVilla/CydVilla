@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyd</h1>
 <h3 align="center">A passionate frontend developer from Boston</h3>
 
-- 🔭 I’m currently working on [Get Morganized](https://getmorganizedtoday.com/)
-
 - 👨‍💻 Check out my personal website at [https://cydvilla.netlify.app/](https://cydvilla.netlify.app/)
 
 - 📝 I regularly doom scroll on Reddit.
@@ -12,6 +10,12 @@
 - 📫 How to reach me **villacv@gmail.com**
 
 - ⚡ Fun fact **I'm a Jedi**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CydVilla/CydVilla/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CydVilla/CydVilla/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/CydVilla/CydVilla/output/commit-invaders.svg" width="100%">
+</picture>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://paypal.me/villacv"><img align="left" src="https://img.shields.io/badge/PayPal-Support%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support me on PayPal" /></a></p><br><br>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cydvilla&show_icons=true&locale=en&layout=compact" alt="cydvilla" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cydvilla&show_icons=true&locale=en" alt="cydvilla" /></p>
